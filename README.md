@@ -1,1 +1,1 @@
-# global transit group html template
+# HTMNL & CSS Template - Global Transit Group
